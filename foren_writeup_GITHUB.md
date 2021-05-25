@@ -2,7 +2,7 @@
 
 #### 		**Category : Forensics**
 
-Author : **Paul** 	[<u>@cyberpj</u> ](twitter.com/cyberpj1)
+Author : *Paul* 	[<u>@cyberpj</u> ](twitter.com/cyberpj1)
 
 Solution :
 
@@ -10,7 +10,7 @@ Solution :
 
 - **Don't get into rabbit hole like **
   - `diff or git -show or git logs. :)`
-- **BE BEGGINER ** :smile_cat:
+-  **BE BEGGINER ** :smile_cat:**
 - The flag Was Splitted into several pieces
 
 2. *Just Enum the folder*
